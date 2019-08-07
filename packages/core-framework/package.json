@@ -1,6 +1,6 @@
 {
   "name": "@monorepo-example/core-framework",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "main": "src/index.jsx",
   "license": "MIT",
   "private": true,
