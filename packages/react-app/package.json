@@ -1,0 +1,19 @@
+{
+  "name": "@monorepo-example/react-app",
+  "version": "0.0.1",
+  "main": "src/index.jsx",
+  "license": "MIT",
+  "private": true,
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@monorepo-example/core-framework": "^0.0.1",
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0"
+  },
+  "scripts": {
+    "dev": "webpack-dev-server --mode development --color",
+    "build:webpack": "webpack --mode production"
+  }
+}

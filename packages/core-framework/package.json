@@ -1,0 +1,14 @@
+{
+  "name": "@monorepo-example/core-framework",
+  "version": "0.0.1",
+  "main": "src/index.jsx",
+  "license": "MIT",
+  "private": true,
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0"
+  }
+}
