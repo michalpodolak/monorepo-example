@@ -1,6 +1,6 @@
 {
   "name": "@monorepo-example/react-app-2",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "main": "src/index.jsx",
   "license": "MIT",
   "private": true,
