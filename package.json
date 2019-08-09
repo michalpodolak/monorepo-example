@@ -36,6 +36,7 @@
     "lint": "eslint --cache --ignore-path .gitignore ./packages/*/src/**.jsx",
     "test": "jest",
     "build": "lerna run build:webpack",
-    "dev": "lerna run dev --stream"
+    "dev:react-app": "lerna run dev --scope=@monorepo-example/react-app",
+    "dev:react-app-2": "lerna run dev --scope=@monorepo-example/react-app-2"
   }
 }
