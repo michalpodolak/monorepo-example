@@ -3,7 +3,7 @@ import { render } from 'react-dom';
 
 const App = () => (
   <>
-    <div>react-app-2</div>
+    <div>react-app-2 small change</div>
   </>
 );
 
