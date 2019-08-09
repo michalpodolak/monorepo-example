@@ -1,6 +1,6 @@
 {
   "name": "@monorepo-example/react-app",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "main": "src/index.jsx",
   "license": "MIT",
   "private": true,
@@ -8,7 +8,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@monorepo-example/core-framework": "^0.1.6",
+    "@monorepo-example/core-framework": "^0.1.7",
     "react": "^16.8.0",
     "react-dom": "^16.8.0"
   },
